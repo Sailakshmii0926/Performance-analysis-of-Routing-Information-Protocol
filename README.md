@@ -1,1 +1,2 @@
 # Performance-analysis-of-Routing-Information-Protocol
+The main objective of network is the routing services which are available upon the execution of protocols. Many routing protocols emerge over each the other to strive for betterment in performing the function of sending the packets to destination efficiently, thereby swiftly. Despite the emergence of the advanced protocols in existence, the old routing information protocol (RIP) remains still in use due to the ease of configuration.
